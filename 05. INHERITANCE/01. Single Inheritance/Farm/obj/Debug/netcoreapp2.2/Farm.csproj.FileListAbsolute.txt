@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\01. Single Inheritance\Farm\bin\Debug\netcoreapp2.2\Farm.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\01. Single Inheritance\Farm\bin\Debug\netcoreapp2.2\Farm.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\01. Single Inheritance\Farm\bin\Debug\netcoreapp2.2\Farm.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\01. Single Inheritance\Farm\bin\Debug\netcoreapp2.2\Farm.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\01. Single Inheritance\Farm\bin\Debug\netcoreapp2.2\Farm.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\01. Single Inheritance\Farm\obj\Debug\netcoreapp2.2\Farm.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\01. Single Inheritance\Farm\obj\Debug\netcoreapp2.2\Farm.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\01. Single Inheritance\Farm\obj\Debug\netcoreapp2.2\Farm.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\01. Single Inheritance\Farm\obj\Debug\netcoreapp2.2\Farm.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\01. Single Inheritance\Farm\obj\Debug\netcoreapp2.2\Farm.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\01. Single Inheritance\Farm\obj\Debug\netcoreapp2.2\Farm.pdb

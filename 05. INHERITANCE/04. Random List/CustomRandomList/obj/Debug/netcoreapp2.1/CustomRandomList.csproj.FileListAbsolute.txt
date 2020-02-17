@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\04. Random List\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\04. Random List\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\04. Random List\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\04. Random List\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\04. Random List\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\04. Random List\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\04. Random List\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\04. Random List\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\04. Random List\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\04. Random List\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\04. Random List\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.pdb

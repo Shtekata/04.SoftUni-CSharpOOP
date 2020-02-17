@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\05. Stack of Strings\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\05. Stack of Strings\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\05. Stack of Strings\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\05. Stack of Strings\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\05. Stack of Strings\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\05. Stack of Strings\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\05. Stack of Strings\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\05. Stack of Strings\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\05. Stack of Strings\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\05. Stack of Strings\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\05. INHERITANCE\05. Stack of Strings\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.pdb
