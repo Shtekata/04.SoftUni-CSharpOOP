@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\FootballTeamGenerator\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\FootballTeamGenerator\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\FootballTeamGenerator\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\FootballTeamGenerator\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\FootballTeamGenerator\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\FootballTeamGenerator\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.pdb

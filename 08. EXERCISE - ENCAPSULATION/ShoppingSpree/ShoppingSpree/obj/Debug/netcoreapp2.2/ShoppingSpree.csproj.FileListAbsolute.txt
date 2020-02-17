@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\ShoppingSpree\ShoppingSpree\bin\Debug\netcoreapp2.2\ShoppingSpree.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\ShoppingSpree\ShoppingSpree\bin\Debug\netcoreapp2.2\ShoppingSpree.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\ShoppingSpree\ShoppingSpree\bin\Debug\netcoreapp2.2\ShoppingSpree.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\ShoppingSpree\ShoppingSpree\bin\Debug\netcoreapp2.2\ShoppingSpree.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\ShoppingSpree\ShoppingSpree\bin\Debug\netcoreapp2.2\ShoppingSpree.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\ShoppingSpree\ShoppingSpree\obj\Debug\netcoreapp2.2\ShoppingSpree.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\ShoppingSpree\ShoppingSpree\obj\Debug\netcoreapp2.2\ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\ShoppingSpree\ShoppingSpree\obj\Debug\netcoreapp2.2\ShoppingSpree.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\ShoppingSpree\ShoppingSpree\obj\Debug\netcoreapp2.2\ShoppingSpree.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\ShoppingSpree\ShoppingSpree\obj\Debug\netcoreapp2.2\ShoppingSpree.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\ShoppingSpree\ShoppingSpree\obj\Debug\netcoreapp2.2\ShoppingSpree.pdb

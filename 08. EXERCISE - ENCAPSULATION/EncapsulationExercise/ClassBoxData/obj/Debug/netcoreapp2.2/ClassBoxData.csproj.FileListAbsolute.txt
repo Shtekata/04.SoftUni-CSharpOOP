@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp2.2\ClassBoxData.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp2.2\ClassBoxData.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp2.2\ClassBoxData.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp2.2\ClassBoxData.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp2.2\ClassBoxData.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp2.2\ClassBoxData.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp2.2\ClassBoxData.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp2.2\ClassBoxData.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp2.2\ClassBoxData.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp2.2\ClassBoxData.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\08. EXERCISE - ENCAPSULATION\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp2.2\ClassBoxData.pdb
