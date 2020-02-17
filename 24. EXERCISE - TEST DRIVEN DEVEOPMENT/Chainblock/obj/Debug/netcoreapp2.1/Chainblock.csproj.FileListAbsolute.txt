@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\24. EXERCISE - TEST DRIVEN DEVEOPMENT\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\24. EXERCISE - TEST DRIVEN DEVEOPMENT\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\24. EXERCISE - TEST DRIVEN DEVEOPMENT\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\24. EXERCISE - TEST DRIVEN DEVEOPMENT\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\24. EXERCISE - TEST DRIVEN DEVEOPMENT\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\24. EXERCISE - TEST DRIVEN DEVEOPMENT\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\24. EXERCISE - TEST DRIVEN DEVEOPMENT\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\24. EXERCISE - TEST DRIVEN DEVEOPMENT\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\24. EXERCISE - TEST DRIVEN DEVEOPMENT\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\24. EXERCISE - TEST DRIVEN DEVEOPMENT\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\24. EXERCISE - TEST DRIVEN DEVEOPMENT\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.pdb
