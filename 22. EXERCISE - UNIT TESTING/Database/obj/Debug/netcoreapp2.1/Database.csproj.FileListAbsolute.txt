@@ -1,0 +1,9 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\Database\bin\Debug\netcoreapp2.1\Database.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\Database\bin\Debug\netcoreapp2.1\Database.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\Database\obj\Debug\netcoreapp2.1\Database.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\Database\obj\Debug\netcoreapp2.1\Database.pdb

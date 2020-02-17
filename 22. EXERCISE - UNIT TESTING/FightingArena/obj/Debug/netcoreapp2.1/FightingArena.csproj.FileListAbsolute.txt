@@ -1,0 +1,9 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\22. EXERCISE - UNIT TESTING\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.pdb
