@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\14. EXERCISE - SOLID\SOLID\Logger\bin\Debug\netcoreapp2.2\Logger.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\14. EXERCISE - SOLID\SOLID\Logger\bin\Debug\netcoreapp2.2\Logger.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\14. EXERCISE - SOLID\SOLID\Logger\bin\Debug\netcoreapp2.2\Logger.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\14. EXERCISE - SOLID\SOLID\Logger\bin\Debug\netcoreapp2.2\Logger.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\14. EXERCISE - SOLID\SOLID\Logger\bin\Debug\netcoreapp2.2\Logger.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\14. EXERCISE - SOLID\SOLID\Logger\obj\Debug\netcoreapp2.2\Logger.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\14. EXERCISE - SOLID\SOLID\Logger\obj\Debug\netcoreapp2.2\Logger.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\14. EXERCISE - SOLID\SOLID\Logger\obj\Debug\netcoreapp2.2\Logger.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\14. EXERCISE - SOLID\SOLID\Logger\obj\Debug\netcoreapp2.2\Logger.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\14. EXERCISE - SOLID\SOLID\Logger\obj\Debug\netcoreapp2.2\Logger.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\14. EXERCISE - SOLID\SOLID\Logger\obj\Debug\netcoreapp2.2\Logger.csprojAssemblyReference.cache
