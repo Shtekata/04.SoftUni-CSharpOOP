@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\21. UNIT TESTING\\Unit\\UnitTesting.Test\\UnitTesting.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\21. UNIT TESTING\\Unit\\UnitTesting.Test\\UnitTesting.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\21. UNIT TESTING\\Unit\\UnitTesting.Test\\UnitTesting.Test.csproj",
+        "projectName": "UnitTesting.Test",
+        "projectPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\21. UNIT TESTING\\Unit\\UnitTesting.Test\\UnitTesting.Test.csproj",
+        "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\21. UNIT TESTING\\Unit\\UnitTesting.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\21. UNIT TESTING\\Unit\\UnitTesting\\UnitTesting.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\21. UNIT TESTING\\Unit\\UnitTesting\\UnitTesting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\21. UNIT TESTING\\Unit\\UnitTesting\\UnitTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\21. UNIT TESTING\\Unit\\UnitTesting\\UnitTesting.csproj",
+        "projectName": "UnitTesting",
+        "projectPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\21. UNIT TESTING\\Unit\\UnitTesting\\UnitTesting.csproj",
+        "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\21. UNIT TESTING\\Unit\\UnitTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\bin\Debug\netcoreapp2.2\UnitTesting.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\obj\Debug\netcoreapp2.2\UnitTesting.Test.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\obj\Debug\netcoreapp2.2\UnitTesting.Test.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\obj\Debug\netcoreapp2.2\UnitTesting.Test.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\obj\Debug\netcoreapp2.2\UnitTesting.Test.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\bin\Debug\netcoreapp2.2\UnitTesting.Test.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\bin\Debug\netcoreapp2.2\UnitTesting.Test.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\bin\Debug\netcoreapp2.2\UnitTesting.Test.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\bin\Debug\netcoreapp2.2\UnitTesting.Test.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\bin\Debug\netcoreapp2.2\UnitTesting.Test.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\bin\Debug\netcoreapp2.2\UnitTesting.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\obj\Debug\netcoreapp2.2\UnitTesting.Test.csproj.CopyComplete
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\obj\Debug\netcoreapp2.2\UnitTesting.Test.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting.Test\obj\Debug\netcoreapp2.2\UnitTesting.Test.pdb

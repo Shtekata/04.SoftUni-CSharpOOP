@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting\bin\Debug\netcoreapp2.2\UnitTesting.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting\bin\Debug\netcoreapp2.2\UnitTesting.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting\bin\Debug\netcoreapp2.2\UnitTesting.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting\bin\Debug\netcoreapp2.2\UnitTesting.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting\bin\Debug\netcoreapp2.2\UnitTesting.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting\obj\Debug\netcoreapp2.2\UnitTesting.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting\obj\Debug\netcoreapp2.2\UnitTesting.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting\obj\Debug\netcoreapp2.2\UnitTesting.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting\obj\Debug\netcoreapp2.2\UnitTesting.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting\obj\Debug\netcoreapp2.2\UnitTesting.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\21. UNIT TESTING\Unit\UnitTesting\obj\Debug\netcoreapp2.2\UnitTesting.pdb
