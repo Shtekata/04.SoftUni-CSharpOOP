@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Validation\bin\Debug\netcoreapp2.1\Validation.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Validation\bin\Debug\netcoreapp2.1\Validation.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Validation\bin\Debug\netcoreapp2.1\Validation.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Validation\bin\Debug\netcoreapp2.1\Validation.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Validation\bin\Debug\netcoreapp2.1\Validation.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Validation\obj\Debug\netcoreapp2.1\Validation.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Validation\obj\Debug\netcoreapp2.1\Validation.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Validation\obj\Debug\netcoreapp2.1\Validation.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Validation\obj\Debug\netcoreapp2.1\Validation.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Validation\obj\Debug\netcoreapp2.1\Validation.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Validation\obj\Debug\netcoreapp2.1\Validation.csprojAssemblyReference.cache

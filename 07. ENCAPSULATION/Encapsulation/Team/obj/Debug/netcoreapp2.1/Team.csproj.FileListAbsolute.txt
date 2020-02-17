@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Team\bin\Debug\netcoreapp2.1\Team.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Team\bin\Debug\netcoreapp2.1\Team.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Team\bin\Debug\netcoreapp2.1\Team.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Team\bin\Debug\netcoreapp2.1\Team.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Team\bin\Debug\netcoreapp2.1\Team.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Team\obj\Debug\netcoreapp2.1\Team.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Team\obj\Debug\netcoreapp2.1\Team.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Team\obj\Debug\netcoreapp2.1\Team.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Team\obj\Debug\netcoreapp2.1\Team.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Team\obj\Debug\netcoreapp2.1\Team.pdb

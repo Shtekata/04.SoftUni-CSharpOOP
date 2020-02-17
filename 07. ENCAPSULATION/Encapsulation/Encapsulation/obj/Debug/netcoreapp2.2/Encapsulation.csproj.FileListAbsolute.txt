@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.2\Encapsulation.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.2\Encapsulation.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.2\Encapsulation.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.2\Encapsulation.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.2\Encapsulation.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.2\Encapsulation.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.2\Encapsulation.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.2\Encapsulation.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.2\Encapsulation.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.2\Encapsulation.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\07. ENCAPSULATION\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.2\Encapsulation.pdb
