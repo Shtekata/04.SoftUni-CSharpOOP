@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\04. Telephony\Telephony\bin\Debug\netcoreapp2.2\Telephony.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\04. Telephony\Telephony\bin\Debug\netcoreapp2.2\Telephony.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\04. Telephony\Telephony\bin\Debug\netcoreapp2.2\Telephony.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\04. Telephony\Telephony\bin\Debug\netcoreapp2.2\Telephony.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\04. Telephony\Telephony\bin\Debug\netcoreapp2.2\Telephony.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\04. Telephony\Telephony\obj\Debug\netcoreapp2.2\Telephony.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\04. Telephony\Telephony\obj\Debug\netcoreapp2.2\Telephony.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\04. Telephony\Telephony\obj\Debug\netcoreapp2.2\Telephony.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\04. Telephony\Telephony\obj\Debug\netcoreapp2.2\Telephony.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\04. Telephony\Telephony\obj\Debug\netcoreapp2.2\Telephony.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\04. Telephony\Telephony\obj\Debug\netcoreapp2.2\Telephony.pdb

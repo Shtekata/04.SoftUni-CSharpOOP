@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\08. MilitaryElite\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\08. MilitaryElite\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\08. MilitaryElite\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\08. MilitaryElite\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\08. MilitaryElite\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\08. MilitaryElite\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\08. MilitaryElite\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\08. MilitaryElite\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\08. MilitaryElite\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\08. MilitaryElite\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\08. MilitaryElite\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.pdb

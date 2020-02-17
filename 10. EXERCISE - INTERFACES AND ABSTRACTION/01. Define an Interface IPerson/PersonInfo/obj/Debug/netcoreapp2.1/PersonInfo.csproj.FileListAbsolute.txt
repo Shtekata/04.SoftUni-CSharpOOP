@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\01. Define an Interface IPerson\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\01. Define an Interface IPerson\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\01. Define an Interface IPerson\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\01. Define an Interface IPerson\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\01. Define an Interface IPerson\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\01. Define an Interface IPerson\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\01. Define an Interface IPerson\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\01. Define an Interface IPerson\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\01. Define an Interface IPerson\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\10. EXERCISE - INTERFACES AND ABSTRACTION\01. Define an Interface IPerson\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.pdb
