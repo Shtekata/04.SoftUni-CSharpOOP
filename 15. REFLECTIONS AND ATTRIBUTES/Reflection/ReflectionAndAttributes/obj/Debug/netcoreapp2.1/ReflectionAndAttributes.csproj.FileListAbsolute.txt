@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\15. REFLECTIONS AND ATTRIBUTES\Reflection\ReflectionAndAttributes\bin\Debug\netcoreapp2.1\ReflectionAndAttributes.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\15. REFLECTIONS AND ATTRIBUTES\Reflection\ReflectionAndAttributes\bin\Debug\netcoreapp2.1\ReflectionAndAttributes.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\15. REFLECTIONS AND ATTRIBUTES\Reflection\ReflectionAndAttributes\bin\Debug\netcoreapp2.1\ReflectionAndAttributes.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\15. REFLECTIONS AND ATTRIBUTES\Reflection\ReflectionAndAttributes\bin\Debug\netcoreapp2.1\ReflectionAndAttributes.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\15. REFLECTIONS AND ATTRIBUTES\Reflection\ReflectionAndAttributes\bin\Debug\netcoreapp2.1\ReflectionAndAttributes.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\15. REFLECTIONS AND ATTRIBUTES\Reflection\ReflectionAndAttributes\obj\Debug\netcoreapp2.1\ReflectionAndAttributes.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\15. REFLECTIONS AND ATTRIBUTES\Reflection\ReflectionAndAttributes\obj\Debug\netcoreapp2.1\ReflectionAndAttributes.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\15. REFLECTIONS AND ATTRIBUTES\Reflection\ReflectionAndAttributes\obj\Debug\netcoreapp2.1\ReflectionAndAttributes.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\15. REFLECTIONS AND ATTRIBUTES\Reflection\ReflectionAndAttributes\obj\Debug\netcoreapp2.1\ReflectionAndAttributes.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\15. REFLECTIONS AND ATTRIBUTES\Reflection\ReflectionAndAttributes\obj\Debug\netcoreapp2.1\ReflectionAndAttributes.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\15. REFLECTIONS AND ATTRIBUTES\Reflection\ReflectionAndAttributes\obj\Debug\netcoreapp2.1\ReflectionAndAttributes.csprojAssemblyReference.cache
