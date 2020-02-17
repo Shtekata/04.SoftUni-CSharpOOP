@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\03. Student System\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\03. Student System\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\03. Student System\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\03. Student System\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\03. Student System\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\03. Student System\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\03. Student System\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\03. Student System\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\03. Student System\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\03. Student System\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\03. Student System\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.pdb

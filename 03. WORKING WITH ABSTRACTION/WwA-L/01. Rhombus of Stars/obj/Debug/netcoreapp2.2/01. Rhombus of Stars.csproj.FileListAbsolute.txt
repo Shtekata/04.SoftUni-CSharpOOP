@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\WwA-L\01. Rhombus of Stars\bin\Debug\netcoreapp2.2\01. Rhombus of Stars.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\WwA-L\01. Rhombus of Stars\bin\Debug\netcoreapp2.2\01. Rhombus of Stars.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\WwA-L\01. Rhombus of Stars\bin\Debug\netcoreapp2.2\01. Rhombus of Stars.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\WwA-L\01. Rhombus of Stars\bin\Debug\netcoreapp2.2\01. Rhombus of Stars.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\WwA-L\01. Rhombus of Stars\bin\Debug\netcoreapp2.2\01. Rhombus of Stars.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\WwA-L\01. Rhombus of Stars\obj\Debug\netcoreapp2.2\01. Rhombus of Stars.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\WwA-L\01. Rhombus of Stars\obj\Debug\netcoreapp2.2\01. Rhombus of Stars.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\WwA-L\01. Rhombus of Stars\obj\Debug\netcoreapp2.2\01. Rhombus of Stars.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\WwA-L\01. Rhombus of Stars\obj\Debug\netcoreapp2.2\01. Rhombus of Stars.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\WwA-L\01. Rhombus of Stars\obj\Debug\netcoreapp2.2\01. Rhombus of Stars.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\WwA-L\01. Rhombus of Stars\obj\Debug\netcoreapp2.2\01. Rhombus of Stars.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\02. Point in Rectangle\Point in Rectangle\bin\Debug\netcoreapp2.1\Point in Rectangle.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\02. Point in Rectangle\Point in Rectangle\bin\Debug\netcoreapp2.1\Point in Rectangle.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\02. Point in Rectangle\Point in Rectangle\bin\Debug\netcoreapp2.1\Point in Rectangle.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\02. Point in Rectangle\Point in Rectangle\bin\Debug\netcoreapp2.1\Point in Rectangle.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\02. Point in Rectangle\Point in Rectangle\bin\Debug\netcoreapp2.1\Point in Rectangle.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\02. Point in Rectangle\Point in Rectangle\obj\Debug\netcoreapp2.1\Point in Rectangle.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\02. Point in Rectangle\Point in Rectangle\obj\Debug\netcoreapp2.1\Point in Rectangle.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\02. Point in Rectangle\Point in Rectangle\obj\Debug\netcoreapp2.1\Point in Rectangle.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\02. Point in Rectangle\Point in Rectangle\obj\Debug\netcoreapp2.1\Point in Rectangle.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\02. Point in Rectangle\Point in Rectangle\obj\Debug\netcoreapp2.1\Point in Rectangle.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\03. WORKING WITH ABSTRACTION\02. Point in Rectangle\Point in Rectangle\obj\Debug\netcoreapp2.1\Point in Rectangle.csprojAssemblyReference.cache
