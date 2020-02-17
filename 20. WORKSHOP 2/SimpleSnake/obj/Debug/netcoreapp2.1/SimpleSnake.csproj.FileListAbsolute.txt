@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb

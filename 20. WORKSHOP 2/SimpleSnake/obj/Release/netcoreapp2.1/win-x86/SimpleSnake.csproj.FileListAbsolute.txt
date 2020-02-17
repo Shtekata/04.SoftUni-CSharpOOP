@@ -1,0 +1,14 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Release\netcoreapp2.1\win-x86\SimpleSnake.exe
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Release\netcoreapp2.1\win-x86\SimpleSnake.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Release\netcoreapp2.1\win-x86\SimpleSnake.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Release\netcoreapp2.1\win-x86\SimpleSnake.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Release\netcoreapp2.1\win-x86\SimpleSnake.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\bin\Release\netcoreapp2.1\win-x86\SimpleSnake.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\obj\Release\netcoreapp2.1\win-x86\SimpleSnake.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\obj\Release\netcoreapp2.1\win-x86\SimpleSnake.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\obj\Release\netcoreapp2.1\win-x86\SimpleSnake.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\obj\Release\netcoreapp2.1\win-x86\SimpleSnake.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\obj\Release\netcoreapp2.1\win-x86\SimpleSnake.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\20. WORKSHOP 2\SimpleSnake\obj\Release\netcoreapp2.1\win-x86\SimpleSnake.pdb
