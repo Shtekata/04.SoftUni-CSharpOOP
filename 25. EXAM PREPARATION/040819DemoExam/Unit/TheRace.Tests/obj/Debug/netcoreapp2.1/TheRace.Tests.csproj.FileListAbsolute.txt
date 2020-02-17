@@ -1,0 +1,17 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.csproj.CopyComplete
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\Unit\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.pdb

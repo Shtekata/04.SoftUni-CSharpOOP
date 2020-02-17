@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\25. EXAM PREPARATION\\040819DemoExam\\Unit\\TheRace.Tests\\TheRace.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\25. EXAM PREPARATION\\040819DemoExam\\Unit\\TheRace.Tests\\TheRace.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\25. EXAM PREPARATION\\040819DemoExam\\Unit\\TheRace.Tests\\TheRace.Tests.csproj",
+        "projectName": "TheRace.Tests",
+        "projectPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\25. EXAM PREPARATION\\040819DemoExam\\Unit\\TheRace.Tests\\TheRace.Tests.csproj",
+        "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\25. EXAM PREPARATION\\040819DemoExam\\Unit\\TheRace.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\25. EXAM PREPARATION\\040819DemoExam\\Unit\\TheRace\\TheRace.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\25. EXAM PREPARATION\\040819DemoExam\\Unit\\TheRace\\TheRace.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\25. EXAM PREPARATION\\040819DemoExam\\Unit\\TheRace\\TheRace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\25. EXAM PREPARATION\\040819DemoExam\\Unit\\TheRace\\TheRace.csproj",
+        "projectName": "TheRace",
+        "projectPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\25. EXAM PREPARATION\\040819DemoExam\\Unit\\TheRace\\TheRace.csproj",
+        "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\25. EXAM PREPARATION\\040819DemoExam\\Unit\\TheRace\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\MXGP\obj\Debug\netcoreapp2.1\MXGP.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\25. EXAM PREPARATION\040819DemoExam\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb
