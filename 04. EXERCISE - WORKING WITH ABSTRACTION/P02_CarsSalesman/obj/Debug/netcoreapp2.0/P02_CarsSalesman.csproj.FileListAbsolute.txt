@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb

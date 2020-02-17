@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\SandBox\bin\Debug\netcoreapp2.2\SandBox.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\SandBox\bin\Debug\netcoreapp2.2\SandBox.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\SandBox\bin\Debug\netcoreapp2.2\SandBox.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\SandBox\bin\Debug\netcoreapp2.2\SandBox.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\SandBox\bin\Debug\netcoreapp2.2\SandBox.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\SandBox\obj\Debug\netcoreapp2.2\SandBox.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\SandBox\obj\Debug\netcoreapp2.2\SandBox.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\SandBox\obj\Debug\netcoreapp2.2\SandBox.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\SandBox\obj\Debug\netcoreapp2.2\SandBox.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\SandBox\obj\Debug\netcoreapp2.2\SandBox.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\SandBox\obj\Debug\netcoreapp2.2\SandBox.pdb

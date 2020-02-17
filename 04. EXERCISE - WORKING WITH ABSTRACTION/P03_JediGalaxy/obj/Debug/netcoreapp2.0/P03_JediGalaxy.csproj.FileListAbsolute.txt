@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\04. EXERCISE - WORKING WITH ABSTRACTION\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.pdb
