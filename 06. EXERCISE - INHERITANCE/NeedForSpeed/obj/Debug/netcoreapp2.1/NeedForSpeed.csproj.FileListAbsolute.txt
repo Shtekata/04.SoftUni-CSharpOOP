@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Animals\obj\Debug\netcoreapp2.1\Animals.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Animals\obj\Debug\netcoreapp2.1\Animals.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Animals\obj\Debug\netcoreapp2.1\Animals.csprojAssemblyReference.cache

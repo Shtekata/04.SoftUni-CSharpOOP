@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Person\bin\Debug\netcoreapp2.1\Person.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Person\bin\Debug\netcoreapp2.1\Person.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Person\bin\Debug\netcoreapp2.1\Person.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Person\obj\Debug\netcoreapp2.1\Person.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Person\obj\Debug\netcoreapp2.1\Person.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\06. EXERCISE - INHERITANCE\Person\obj\Debug\netcoreapp2.1\Person.pdb
