@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\01. Math Operations\Operations\bin\Debug\netcoreapp2.1\Operations.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\01. Math Operations\Operations\bin\Debug\netcoreapp2.1\Operations.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\01. Math Operations\Operations\bin\Debug\netcoreapp2.1\Operations.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\01. Math Operations\Operations\bin\Debug\netcoreapp2.1\Operations.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\01. Math Operations\Operations\bin\Debug\netcoreapp2.1\Operations.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\01. Math Operations\Operations\obj\Debug\netcoreapp2.1\Operations.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\01. Math Operations\Operations\obj\Debug\netcoreapp2.1\Operations.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\01. Math Operations\Operations\obj\Debug\netcoreapp2.1\Operations.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\01. Math Operations\Operations\obj\Debug\netcoreapp2.1\Operations.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\01. Math Operations\Operations\obj\Debug\netcoreapp2.1\Operations.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\01. Math Operations\Operations\obj\Debug\netcoreapp2.1\Operations.pdb

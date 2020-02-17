@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\03. Shapes\Shapes2\bin\Debug\netcoreapp2.1\Shapes2.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\03. Shapes\Shapes2\bin\Debug\netcoreapp2.1\Shapes2.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\03. Shapes\Shapes2\bin\Debug\netcoreapp2.1\Shapes2.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\03. Shapes\Shapes2\bin\Debug\netcoreapp2.1\Shapes2.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\03. Shapes\Shapes2\bin\Debug\netcoreapp2.1\Shapes2.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\03. Shapes\Shapes2\obj\Debug\netcoreapp2.1\Shapes2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\03. Shapes\Shapes2\obj\Debug\netcoreapp2.1\Shapes2.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\03. Shapes\Shapes2\obj\Debug\netcoreapp2.1\Shapes2.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\03. Shapes\Shapes2\obj\Debug\netcoreapp2.1\Shapes2.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\11. POLYMORPHISM\03. Shapes\Shapes2\obj\Debug\netcoreapp2.1\Shapes2.pdb
