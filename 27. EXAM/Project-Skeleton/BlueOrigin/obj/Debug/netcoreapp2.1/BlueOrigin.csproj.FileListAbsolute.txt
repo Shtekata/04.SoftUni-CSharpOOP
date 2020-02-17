@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.pdb

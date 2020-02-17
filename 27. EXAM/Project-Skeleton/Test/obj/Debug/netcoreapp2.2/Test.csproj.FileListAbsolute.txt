@@ -1,0 +1,4 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\Test\obj\Debug\netcoreapp2.2\Test.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\Test\obj\Debug\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\27. EXAM\Project-Skeleton\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfo.cs
