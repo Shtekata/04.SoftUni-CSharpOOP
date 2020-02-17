@@ -1,0 +1,8 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\SoftUniTestingFramework\bin\Debug\netcoreapp2.2\SoftUniTestingFramework.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\SoftUniTestingFramework\bin\Debug\netcoreapp2.2\SoftUniTestingFramework.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\SoftUniTestingFramework\bin\Debug\netcoreapp2.2\SoftUniTestingFramework.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\SoftUniTestingFramework\obj\Debug\netcoreapp2.2\SoftUniTestingFramework.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\SoftUniTestingFramework\obj\Debug\netcoreapp2.2\SoftUniTestingFramework.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\SoftUniTestingFramework\obj\Debug\netcoreapp2.2\SoftUniTestingFramework.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\SoftUniTestingFramework\obj\Debug\netcoreapp2.2\SoftUniTestingFramework.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\SoftUniTestingFramework\obj\Debug\netcoreapp2.2\SoftUniTestingFramework.pdb

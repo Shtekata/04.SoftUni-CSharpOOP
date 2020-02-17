@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MySpecialApp\MySpecialApp.csproj" />
+    <ProjectReference Include="..\SoftUniTestingFramework\SoftUniTestingFramework.csproj" />
+  </ItemGroup>
+
+</Project>

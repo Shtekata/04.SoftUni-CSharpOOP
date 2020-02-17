@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\19. WORKSHOP\\MySpecialApp\\MySpecialApp.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\19. WORKSHOP\\MySpecialApp\\MySpecialApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\19. WORKSHOP\\MySpecialApp\\MySpecialApp.csproj",
+        "projectName": "MySpecialApp",
+        "projectPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\19. WORKSHOP\\MySpecialApp\\MySpecialApp.csproj",
+        "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\19. WORKSHOP\\MySpecialApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\19. WORKSHOP\\SoftUniTestingFramework\\SoftUniTestingFramework.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\19. WORKSHOP\\SoftUniTestingFramework\\SoftUniTestingFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\19. WORKSHOP\\SoftUniTestingFramework\\SoftUniTestingFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\19. WORKSHOP\\SoftUniTestingFramework\\SoftUniTestingFramework.csproj",
+        "projectName": "SoftUniTestingFramework",
+        "projectPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\19. WORKSHOP\\SoftUniTestingFramework\\SoftUniTestingFramework.csproj",
+        "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Projects\\04. SoftUni - C# OOP\\19. WORKSHOP\\SoftUniTestingFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

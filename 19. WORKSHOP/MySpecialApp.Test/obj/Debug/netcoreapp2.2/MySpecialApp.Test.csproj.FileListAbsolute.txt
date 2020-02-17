@@ -1,0 +1,14 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\obj\Debug\netcoreapp2.2\MySpecialApp.Test.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\obj\Debug\netcoreapp2.2\MySpecialApp.Test.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\obj\Debug\netcoreapp2.2\MySpecialApp.Test.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\obj\Debug\netcoreapp2.2\MySpecialApp.Test.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\bin\Debug\netcoreapp2.2\MySpecialApp.Test.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\bin\Debug\netcoreapp2.2\MySpecialApp.Test.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\bin\Debug\netcoreapp2.2\MySpecialApp.Test.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\bin\Debug\netcoreapp2.2\MySpecialApp.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\bin\Debug\netcoreapp2.2\SoftUniTestingFramework.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\bin\Debug\netcoreapp2.2\MySpecialApp.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\bin\Debug\netcoreapp2.2\SoftUniTestingFramework.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\obj\Debug\netcoreapp2.2\MySpecialApp.Test.csproj.CopyComplete
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\obj\Debug\netcoreapp2.2\MySpecialApp.Test.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\19. WORKSHOP\MySpecialApp.Test\obj\Debug\netcoreapp2.2\MySpecialApp.Test.pdb

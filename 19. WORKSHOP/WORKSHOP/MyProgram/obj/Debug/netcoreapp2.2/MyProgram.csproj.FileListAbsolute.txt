@@ -1,0 +1,16 @@
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\bin\Debug\netcoreapp2.2\MyProgram.deps.json
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\bin\Debug\netcoreapp2.2\MyProgram.runtimeconfig.json
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\bin\Debug\netcoreapp2.2\MyProgram.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\bin\Debug\netcoreapp2.2\MyProgram.dll
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\bin\Debug\netcoreapp2.2\MyProgram.pdb
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\bin\Debug\netcoreapp2.2\CustomTestingFramework.dll
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\bin\Debug\netcoreapp2.2\CustomTestingFramework.Tests.dll
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\bin\Debug\netcoreapp2.2\CustomTestingFramework.Tests.pdb
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\bin\Debug\netcoreapp2.2\CustomTestingFramework.pdb
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\obj\Debug\netcoreapp2.2\MyProgram.csprojAssemblyReference.cache
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\obj\Debug\netcoreapp2.2\MyProgram.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\obj\Debug\netcoreapp2.2\MyProgram.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\obj\Debug\netcoreapp2.2\MyProgram.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\obj\Debug\netcoreapp2.2\MyProgram.csproj.CopyComplete
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\obj\Debug\netcoreapp2.2\MyProgram.dll
+C:\Users\Stoyan\source\repos\CustomTestingFramewrok\MyProgram\obj\Debug\netcoreapp2.2\MyProgram.pdb
