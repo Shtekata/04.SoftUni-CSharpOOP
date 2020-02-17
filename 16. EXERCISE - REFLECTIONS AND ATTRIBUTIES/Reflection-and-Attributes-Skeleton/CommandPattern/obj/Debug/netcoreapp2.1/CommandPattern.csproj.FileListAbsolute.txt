@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\16. EXERCISE - REFLECTIONS AND ATTRIBUTIES\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\16. EXERCISE - REFLECTIONS AND ATTRIBUTIES\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\16. EXERCISE - REFLECTIONS AND ATTRIBUTIES\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\16. EXERCISE - REFLECTIONS AND ATTRIBUTIES\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\16. EXERCISE - REFLECTIONS AND ATTRIBUTIES\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\16. EXERCISE - REFLECTIONS AND ATTRIBUTIES\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\16. EXERCISE - REFLECTIONS AND ATTRIBUTIES\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\16. EXERCISE - REFLECTIONS AND ATTRIBUTIES\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\16. EXERCISE - REFLECTIONS AND ATTRIBUTIES\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\16. EXERCISE - REFLECTIONS AND ATTRIBUTIES\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\16. EXERCISE - REFLECTIONS AND ATTRIBUTIES\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.pdb
