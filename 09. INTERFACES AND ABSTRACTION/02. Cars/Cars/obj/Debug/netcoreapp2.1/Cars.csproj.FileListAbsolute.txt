@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\02. Cars\Cars\bin\Debug\netcoreapp2.1\Cars.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\02. Cars\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\02. Cars\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\02. Cars\Cars\bin\Debug\netcoreapp2.1\Cars.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\02. Cars\Cars\bin\Debug\netcoreapp2.1\Cars.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\02. Cars\Cars\obj\Debug\netcoreapp2.1\Cars.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\02. Cars\Cars\obj\Debug\netcoreapp2.1\Cars.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\02. Cars\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\02. Cars\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\02. Cars\Cars\obj\Debug\netcoreapp2.1\Cars.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\02. Cars\Cars\obj\Debug\netcoreapp2.1\Cars.pdb

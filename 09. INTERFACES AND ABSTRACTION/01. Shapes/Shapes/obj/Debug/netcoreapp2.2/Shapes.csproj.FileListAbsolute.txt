@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\01. Shapes\Shapes\bin\Debug\netcoreapp2.2\Shapes.deps.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\01. Shapes\Shapes\bin\Debug\netcoreapp2.2\Shapes.runtimeconfig.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\01. Shapes\Shapes\bin\Debug\netcoreapp2.2\Shapes.runtimeconfig.dev.json
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\01. Shapes\Shapes\bin\Debug\netcoreapp2.2\Shapes.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\01. Shapes\Shapes\bin\Debug\netcoreapp2.2\Shapes.pdb
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\01. Shapes\Shapes\obj\Debug\netcoreapp2.2\Shapes.csprojAssemblyReference.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\01. Shapes\Shapes\obj\Debug\netcoreapp2.2\Shapes.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\01. Shapes\Shapes\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\01. Shapes\Shapes\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfo.cs
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\01. Shapes\Shapes\obj\Debug\netcoreapp2.2\Shapes.dll
+D:\OneDrive\Projects\04. SoftUni - C# OOP\09. INTERFACES AND ABSTRACTION\01. Shapes\Shapes\obj\Debug\netcoreapp2.2\Shapes.pdb
